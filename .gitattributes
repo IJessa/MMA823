@@ -1,0 +1,4 @@
+*.xlsx filter=lfs diff=lfs merge=lfs -text
+Sector[[:space:]]Information.xlsx filter=lfs diff=lfs merge=lfs -text
+Stock_Returns_Data.xlsx filter=lfs diff=lfs merge=lfs -text
+.xlsx filter=lfs diff=lfs merge=lfs -text
